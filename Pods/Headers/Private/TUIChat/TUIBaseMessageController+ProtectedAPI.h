@@ -1,0 +1,1 @@
+../../../TUIChat/TUIChat/UI/Chat/TUIBaseMessageController+ProtectedAPI.h

@@ -1,0 +1,16 @@
+${PODS_ROOT}/Target Support Files/Pods-HashdeepHotel/Pods-HashdeepHotel-resources.sh
+${PODS_ROOT}/AMap2DMap/MAMapKit.framework/AMap.bundle
+${PODS_ROOT}/AlipaySDK-iOS/AlipaySDK.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
+${PODS_ROOT}/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle
+${PODS_ROOT}/TUIChat/TUIChat/Resources/TUIChat.bundle
+${PODS_ROOT}/TUIChat/TUIChat/Resources/TUIChatFace.bundle
+${PODS_ROOT}/TUIChat/TUIChat/Resources/TUIChatTheme.bundle
+${PODS_ROOT}/TUIConversation/TUIConversation/Resources/TUIConversation.bundle
+${PODS_ROOT}/TUIConversation/TUIConversation/Resources/TUIConversationTheme.bundle
+${PODS_ROOT}/TUICore/TUICore/Resources/TUICore.bundle
+${PODS_ROOT}/TUICore/TUICore/Resources/TUICoreTheme.bundle
+${PODS_ROOT}/TUICore/TUICore/Resources/TUIKitLocalizable.bundle
+${PODS_ROOT}/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImagePickerController.bundle
+${PODS_ROOT}/UMVerify/UMVerify/ATAuthSDK.bundle
+${PODS_ROOT}/WMZDropDownMenu/WMZDropDownMenu/WMZDropDownMenu/WMZDropMenu.bundle

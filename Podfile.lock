@@ -1,0 +1,290 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - AlipaySDK-iOS (15.8.10)
+  - AliyunOSSiOS (2.10.14)
+  - AMap2DMap (5.6.1):
+    - AMapFoundation (~> 1.4)
+  - AMapFoundation (1.7.0)
+  - AMapLocation (2.9.0):
+    - AMapFoundation (>= 1.7.0)
+  - AMapSearch (9.3.0):
+    - AMapFoundation (>= 1.7.0)
+  - IQKeyboardManager (6.5.10)
+  - JXCategoryView (1.6.0)
+  - JXPagingView/Pager (2.1.2)
+  - lottie-ios (2.5.3)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.4.1)
+  - MJRefresh (3.7.5)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.13.0):
+    - SDWebImage/Core (= 5.13.0)
+  - SDWebImage/Core (5.13.0)
+  - SVProgressHUD (2.1.2)
+  - TABAnimated (2.6.3)
+  - Toast (3.1.0)
+  - TTRangeSlider (1.0.7)
+  - TUIChat (6.3.2609):
+    - TUIChat/Cell (= 6.3.2609)
+    - TUIChat/Common (= 6.3.2609)
+    - TUIChat/DataProvider (= 6.3.2609)
+    - TUIChat/Header (= 6.3.2609)
+    - TUIChat/Service (= 6.3.2609)
+    - TUIChat/UI (= 6.3.2609)
+    - TUIChat/VoiceConvert (= 6.3.2609)
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell (6.3.2609):
+    - TUIChat/Cell/CellData (= 6.3.2609)
+    - TUIChat/Cell/CellUI (= 6.3.2609)
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellData (6.3.2609):
+    - TUIChat/Cell/CellData/Base (= 6.3.2609)
+    - TUIChat/Cell/CellData/Chat (= 6.3.2609)
+    - TUIChat/Cell/CellData/Custom (= 6.3.2609)
+    - TUIChat/Cell/CellData/Reply (= 6.3.2609)
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellData/Base (6.3.2609):
+    - TUIChat/Common
+    - TUIChat/VoiceConvert
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellData/Chat (6.3.2609):
+    - TUIChat/Cell/CellData/Base
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellData/Custom (6.3.2609):
+    - TUIChat/Cell/CellData/Chat
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellData/Reply (6.3.2609):
+    - TUIChat/Cell/CellData/Chat
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellUI (6.3.2609):
+    - TUIChat/Cell/CellUI/Base (= 6.3.2609)
+    - TUIChat/Cell/CellUI/Chat (= 6.3.2609)
+    - TUIChat/Cell/CellUI/Custom (= 6.3.2609)
+    - TUIChat/Cell/CellUI/Reply (= 6.3.2609)
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellUI/Base (6.3.2609):
+    - TUIChat/Cell/CellData
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellUI/Chat (6.3.2609):
+    - TUIChat/Cell/CellUI/Base
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellUI/Custom (6.3.2609):
+    - TUIChat/Cell/CellUI/Chat
+    - TUICore (= 6.3.2609)
+  - TUIChat/Cell/CellUI/Reply (6.3.2609):
+    - TUIChat/Cell/CellUI/Chat
+    - TUICore (= 6.3.2609)
+  - TUIChat/Common (6.3.2609):
+    - TUICore (= 6.3.2609)
+  - TUIChat/DataProvider (6.3.2609):
+    - TUIChat/Cell
+    - TUICore (= 6.3.2609)
+  - TUIChat/Header (6.3.2609):
+    - TUICore (= 6.3.2609)
+  - TUIChat/Service (6.3.2609):
+    - TUIChat/UI
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI (6.3.2609):
+    - TUIChat/UI/Base (= 6.3.2609)
+    - TUIChat/UI/Chat (= 6.3.2609)
+    - TUIChat/UI/Forward (= 6.3.2609)
+    - TUIChat/UI/Input (= 6.3.2609)
+    - TUIChat/UI/Pendency (= 6.3.2609)
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Base (6.3.2609):
+    - TUIChat/UI/Base/Camera (= 6.3.2609)
+    - TUIChat/UI/Base/Media (= 6.3.2609)
+    - TUIChat/UI/Base/Pop (= 6.3.2609)
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Base/Camera (6.3.2609):
+    - TUIChat/DataProvider
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Base/Media (6.3.2609):
+    - TUIChat/UI/Base/Camera
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Base/Pop (6.3.2609):
+    - TUIChat/DataProvider
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Chat (6.3.2609):
+    - TUIChat/UI/Forward
+    - TUIChat/UI/Input
+    - TUIChat/UI/Pendency
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Forward (6.3.2609):
+    - TUIChat/UI/Base
+    - TUIChat/UI/Input
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Input (6.3.2609):
+    - TUIChat/UI/Base
+    - TUICore (= 6.3.2609)
+  - TUIChat/UI/Pendency (6.3.2609):
+    - TUIChat/UI/Base
+    - TUICore (= 6.3.2609)
+  - TUIChat/VoiceConvert (6.3.2609):
+    - TUICore (= 6.3.2609)
+  - TUIConversation (6.3.2609):
+    - TUIConversation/Cell (= 6.3.2609)
+    - TUIConversation/DataProvider (= 6.3.2609)
+    - TUIConversation/Header (= 6.3.2609)
+    - TUIConversation/Service (= 6.3.2609)
+    - TUIConversation/UI (= 6.3.2609)
+  - TUIConversation/Cell (6.3.2609):
+    - TUIConversation/Cell/CellData (= 6.3.2609)
+    - TUIConversation/Cell/CellUI (= 6.3.2609)
+  - TUIConversation/Cell/CellData (6.3.2609):
+    - TUICore (= 6.3.2609)
+  - TUIConversation/Cell/CellUI (6.3.2609):
+    - TUIConversation/Cell/CellData
+  - TUIConversation/DataProvider (6.3.2609):
+    - TUIConversation/Cell
+  - TUIConversation/Header (6.3.2609)
+  - TUIConversation/Service (6.3.2609):
+    - TUIConversation/UI
+  - TUIConversation/UI (6.3.2609):
+    - TUIConversation/DataProvider
+  - TUICore (6.3.2609):
+    - ReactiveObjC
+    - SDWebImage
+    - TXIMSDK_Plus_iOS (= 6.3.2609)
+  - TXIMSDK_Plus_iOS (6.3.2609)
+  - TZImagePickerController (3.2.9)
+  - UMCommon (7.3.7):
+    - UMDevice
+  - UMDevice (2.2.1)
+  - UMVerify (2.4.1):
+    - UMCommon
+  - WechatOpenSDK (1.8.7.1)
+  - WMZDropDownMenu (1.2.2)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYImage/WebP (1.0.4):
+    - YYImage/Core
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AlipaySDK-iOS
+  - AliyunOSSiOS
+  - AMap2DMap
+  - AMapLocation
+  - AMapSearch
+  - IQKeyboardManager
+  - JXCategoryView
+  - JXPagingView/Pager
+  - lottie-ios (~> 2.5.2)
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - SVProgressHUD (~> 2.1.2)
+  - TABAnimated (= 2.6.3)
+  - Toast (~> 3.0)
+  - TTRangeSlider
+  - TUIChat
+  - TUIConversation
+  - TZImagePickerController (~> 3.2.1)
+  - UMVerify
+  - WechatOpenSDK
+  - WMZDropDownMenu (~> 1.2.0)
+  - YYCache (~> 1.0.4)
+  - YYImage
+  - YYImage/WebP
+  - YYModel
+  - YYText
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - AlipaySDK-iOS
+    - AliyunOSSiOS
+    - AMap2DMap
+    - AMapFoundation
+    - AMapLocation
+    - AMapSearch
+    - IQKeyboardManager
+    - JXCategoryView
+    - JXPagingView
+    - lottie-ios
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - TABAnimated
+    - Toast
+    - TTRangeSlider
+    - TUIChat
+    - TUIConversation
+    - TUICore
+    - TXIMSDK_Plus_iOS
+    - TZImagePickerController
+    - UMCommon
+    - UMDevice
+    - UMVerify
+    - WechatOpenSDK
+    - WMZDropDownMenu
+    - YYCache
+    - YYImage
+    - YYModel
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  AlipaySDK-iOS: 9f81bf87e55750c3b3ac6c1a89c7cbf16ba06f5f
+  AliyunOSSiOS: 2599b2799e2ec50b69f60d48ac956a7938d4ee12
+  AMap2DMap: cac76bc057de18a1641f34df6b50bf5bc6b23571
+  AMapFoundation: c14fcebd8e4267c593bd2e25067ac86b0ce64aba
+  AMapLocation: f5eb11e11c62f0f599f80b578eec8a1f70deb985
+  AMapSearch: 6aaa0abe289bbd518d2797c1fd3ff2c8dbb32c5d
+  IQKeyboardManager: 45a1fa55c1a5b02c61ac0fd7fd5b62bb4ad20d97
+  JXCategoryView: 99c87854c67659f7e2ef1b43079656a46b36b398
+  JXPagingView: 90924b364a2ff7e94db534fad1fa50925ff69ee4
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 0327043dbb9533e75f2eff8445b3df0f2ceca6ac
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  TABAnimated: 2503f43b82bfeaf4e78c4922630284a46d8108f5
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  TTRangeSlider: 8cf72eca457c3b700c92eb0074be908c986e25ec
+  TUIChat: 463be2ddcf4ac151867b50c270043e26d457a1be
+  TUIConversation: 3448d43555dce0858b2930a29ca3dd60b9026acf
+  TUICore: f88f7c63476ed4a40dab2f3e82fc18a1f2983ea3
+  TXIMSDK_Plus_iOS: 6ef71355283cc99a422fb61dfc93dc554585f866
+  TZImagePickerController: 1f92968aa0e98a06b9e2eccca8560acc19254257
+  UMCommon: 37fe35f498e92cf57bbb06a086f02915fc35f211
+  UMDevice: 053478c4b4d7292f31f0a275c227d3c4007a5571
+  UMVerify: e13565bb968b4c98375a62c4798148fa0901f67a
+  WechatOpenSDK: 6a4d1436c15b3b5fe2a0bd383f3046010186da44
+  WMZDropDownMenu: f84680869f89672ca6c8f81f56876175c125cbf4
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: e434fe6b2063c5400718a7427c65d13164ee885e
+
+COCOAPODS: 1.11.2
